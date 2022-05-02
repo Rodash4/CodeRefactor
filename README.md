@@ -5,6 +5,11 @@ S A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
+
+Fixed clicking funtion on nav
+Added alt for images
+Changed tags and cleaned up coding
+
 # URL
 https://github.com/Rodash4/CodeRefactor
 
