@@ -9,7 +9,7 @@ SO THAT our own site is optimized for search engines
 Fixed clicking funtion on nav, added alt for images, changed tags and cleaned up code.
 
 # URL
-https://github.com/Rodash4/CodeRefactor
+https://rodash4.github.io/CodeRefactor/
 
 # GitHub repository URL 
 https://github.com/Rodash4/CodeRefactor
